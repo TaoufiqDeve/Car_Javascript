@@ -1,0 +1,15 @@
+.none{
+    display: none;
+}
+.don{
+    display: inline;
+}
+
+#div{
+    width: 200px;
+    height: 200PX;
+    background-color: blue;
+}
+.color{
+    background-color: aquamarine;
+}
